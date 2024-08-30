@@ -1,2 +1,2 @@
-# Simulaci-n-2
+# Simulacion-2
 Simulación 2
